@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'TomatoFocus',
+  title: 'FocusFlow',
   description: 'Boost your productivity with Pomodoro and To-Do list.',
 };
 
